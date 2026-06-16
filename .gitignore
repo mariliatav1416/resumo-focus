@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+.pytest_cache/
+*.pyc
+
+# Segredos / ambiente local
+.env
+
+# Configurações locais do Claude Code (podem conter credenciais)
+.claude/
+
+# NOTA: output/focus/ é versionado de propósito (os resumos ficam no repo).
